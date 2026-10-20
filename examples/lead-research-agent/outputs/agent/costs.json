@@ -1,0 +1,14 @@
+{
+ "T1": {
+  "cost_usd": 0.0026,
+  "model": "stub-v1"
+ },
+ "T2": {
+  "cost_usd": 0.0076,
+  "model": "stub-v1"
+ },
+ "T3": {
+  "cost_usd": 0.0052,
+  "model": "stub-v1"
+ }
+}

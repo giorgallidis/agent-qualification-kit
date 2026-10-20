@@ -1,0 +1,24 @@
+# Draft for T2
+
+status: DRAFT - needs human approval
+
+This is a stub response for --dry-run testing. Swap in a real adapter to see what an actual model produces for this task.
+
+## Task (as given to this run)
+MODE: GENERATION
+TASK_ID: T2
+## Task
+List 5 NEW prospects that fit the target customer definition in facts.md. This is a fictional
+example, so describe 5 plausible, clearly-invented small service businesses rather than real
+ones — say explicitly in the output that these are fictional/example rows, not real
+businesses (a real run must only use real businesses from sources you actually read, and must
+say so if it cannot reach the web). Columns: business, why_it_fits, fit (high/medium/low).
+Then: your selection method, and anything you could not confirm marked [unverified].
+## Facts sheet (the ON
+
+## Draft
+[stub placeholder body — a real model fills this in from the task card and sources above]
+
+## Self-check
+- Stays within the facts sheet; nothing stated as true beyond it or the named sources.
+- No banned claim used.

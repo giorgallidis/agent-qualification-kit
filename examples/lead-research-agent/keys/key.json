@@ -1,0 +1,62 @@
+{
+ "rubric": {
+  "T1": {
+   "agent": "B",
+   "baseline": "A"
+  },
+  "T2": {
+   "agent": "A",
+   "baseline": "B"
+  },
+  "T3": {
+   "agent": "A",
+   "baseline": "B"
+  }
+ },
+ "pairwise": {
+  "T1": {
+   "o1": {
+    "1": "agent",
+    "2": "baseline"
+   },
+   "o2": {
+    "1": "baseline",
+    "2": "agent"
+   }
+  },
+  "T2": {
+   "o1": {
+    "1": "baseline",
+    "2": "agent"
+   },
+   "o2": {
+    "1": "agent",
+    "2": "baseline"
+   }
+  },
+  "T3": {
+   "o1": {
+    "1": "baseline",
+    "2": "agent"
+   },
+   "o2": {
+    "1": "agent",
+    "2": "baseline"
+   }
+  }
+ },
+ "samples": {
+  "S1": {
+   "task": "T1",
+   "agent": "Lead Research Agent"
+  },
+  "S2": {
+   "task": "T2",
+   "agent": "Lead Research Agent"
+  },
+  "S3": {
+   "task": "T3",
+   "agent": "Lead Research Agent"
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "T1": {
+  "A": {
+   "accuracy": 4,
+   "voice": 4,
+   "specificity": 5,
+   "actionability": 5,
+   "policy": 4,
+   "hard_fail": false,
+   "hard_fail_reason": "",
+   "task_coverage": 90,
+   "rationale": "Stub judge: placeholder scoring for dry-run testing only, not a real evaluation.",
+   "violations": []
+  },
+  "B": {
+   "accuracy": 4,
+   "voice": 4,
+   "specificity": 5,
+   "actionability": 5,
+   "policy": 4,
+   "hard_fail": false,
+   "hard_fail_reason": "",
+   "task_coverage": 90,
+   "rationale": "Stub judge: placeholder scoring for dry-run testing only, not a real evaluation.",
+   "violations": []
+  }
+ },
+ "T2": {
+  "A": {
+   "accuracy": 4,
+   "voice": 5,
+   "specificity": 5,
+   "actionability": 4,
+   "policy": 4,
+   "hard_fail": false,
+   "hard_fail_reason": "",
+   "task_coverage": 80,
+   "rationale": "Stub judge: placeholder scoring for dry-run testing only, not a real evaluation.",
+   "violations": []
+  },
+  "B": {
+   "accuracy": 4,
+   "voice": 5,
+   "specificity": 5,
+   "actionability": 4,
+   "policy": 4,
+   "hard_fail": false,
+   "hard_fail_reason": "",
+   "task_coverage": 80,
+   "rationale": "Stub judge: placeholder scoring for dry-run testing only, not a real evaluation.",
+   "violations": []
+  }
+ },
+ "T3": {
+  "A": {
+   "accuracy": 4,
+   "voice": 3,
+   "specificity": 4,
+   "actionability": 3,
+   "policy": 4,
+   "hard_fail": false,
+   "hard_fail_reason": "",
+   "task_coverage": 80,
+   "rationale": "Stub judge: placeholder scoring for dry-run testing only, not a real evaluation.",
+   "violations": []
+  },
+  "B": {
+   "accuracy": 4,
+   "voice": 3,
+   "specificity": 4,
+   "actionability": 3,
+   "policy": 4,
+   "hard_fail": false,
+   "hard_fail_reason": "",
+   "task_coverage": 80,
+   "rationale": "Stub judge: placeholder scoring for dry-run testing only, not a real evaluation.",
+   "violations": []
+  }
+ }
+}

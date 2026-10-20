@@ -1,0 +1,3 @@
+# Only needed if you use the OpenAI-compatible adapter (harness/adapters.py).
+# The stub adapter (--dry-run) needs nothing beyond the Python standard library.
+requests>=2.31
